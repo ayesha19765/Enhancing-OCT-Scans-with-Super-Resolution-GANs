@@ -1,7 +1,3 @@
-Got it, let's remove the reference to `requirements.txt` and provide explicit installation instructions for the dependencies. Here's the revised README:
-
----
-
 # SR-GANs for Medical Image
 
 Super-resolution generative adversarial networks (SR-GANs) are advanced deep learning models designed to enhance the quality of low-resolution medical images. This repository provides the necessary code and data to implement SR-GANs for medical image processing, which can significantly improve diagnostic accuracy and detail in clinical settings.
